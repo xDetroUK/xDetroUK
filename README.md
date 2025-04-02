@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @xDetroUK
-- 👀 I’m interested in learning new things in programming everyday, hopefully i can contribute on different projects as much as i can. 
-- 🌱 I’m currently learning/working mainly Java and Python
-- 💞️ I’m looking to collaborate on future projects that have potential to become more and change the future.
+JAVA messaging system developed for University Project
